@@ -1,0 +1,148 @@
+.body {
+height: 1300px;
+
+
+
+}
+.container {
+    background-color: #1F2937;
+    width: 1200px;
+    height: 440px;
+    margin-left: -9px;
+    margin-top: -19px;
+    color: aliceblue;
+
+
+}
+
+
+.text1 {
+    color: aliceblue; 
+    margin-left: 100px;
+    margin-bottom: 133px;
+    margin-top: -48px;
+}
+.text2 {
+    background-color: dodgerblue;
+    height: 35px;
+    width: 110px;
+    display: flex;
+    justify-content: center;
+    border-radius: 9px;
+    align-items: center;
+    
+}
+.texts {
+    display: flex;
+    flex-direction: row;
+    margin-left: 600px;
+
+}
+
+.pubg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container2 {
+ color: aliceblue; 
+ width: 200px;
+ margin-left: 100px;
+ display: flex;
+ flex-direction: column;
+}
+.container3 {
+    height: 190px;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: -190px;
+    border: 5px solid #1F2937;
+}
+img {
+    height: 190px;
+    width: 365px; 
+}
+.textas9 {
+    text-align: center;
+}
+
+.cont {
+    height: 140px;
+    padding: 16px;
+    display: flex;
+  }
+  
+  .item1 {
+    width: 84px;
+    height: 87px;
+    border: 3px solid rgb(25, 130, 169);
+    margin: 30px 30px;
+    margin-top: -12px;
+    border-radius: 12px;
+    
+  }
+.top-bottom {
+    display: flex;
+    justify-content: center;
+   
+}
+.img2 {
+    width: 84px;
+    height: 87px;
+    border-radius: 9px;
+}
+.conta {
+    border: 12px;
+    margin: 100px 100px;
+    margin-left: 100px;
+    display: flex;
+    flex-shrink: 1;
+}
+
+.contyner {
+    border: 3px solid rgb(25, 130, 169);
+    height: 100px;
+    width: 900px;
+    background-color: dodgerblue;
+    margin-left: 90px;
+    border-radius: 8px;
+    
+}
+.bigboss {
+    margin-left: 150px;
+    color: aliceblue;
+}
+.littleboss {
+    color: aliceblue;
+    margin-left: 150px;
+}
+.olo {
+    background-color: dodgerblue;
+    height: 35px;
+    width: 110px;
+    margin-top: -55px;
+    margin-left: -450px;
+    display: flex;
+    justify-content: center;
+    border-radius: 9px;
+    align-items: center;
+    border: 2px solid white;
+    
+}
+.ale {
+    background-color: #1F2937;
+    width: 1500px;
+    height: 160px;
+    margin-top: 100px;
+    margin-left: 0px;
+    padding: 0px;
+
+}
+.pok {
+    margin-left: -1300px;
+}
+.kop {
+    margin-left: -1300px;
+
+}
